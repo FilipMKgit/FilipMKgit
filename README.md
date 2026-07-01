@@ -10,6 +10,9 @@
 - <b> Machine Learning for the Identification and Characterization of Pico- and Nano-Plankton</b>
   - [Python, Scikit-learn, TensorFlow](https://github.com/FilipMKgit/Machine-Learning-for-the-Identification-and-Characterization-of-Pico-and-Nano-Plankton)
 
+- <b> PG-Power Shiny App</b>
+  - [R, Shiny Apps](https://github.com/FilipMKgit/MDX2526/tree/main/PG_Power)
+
 - <b> DIG Trial Data Shiny App</b>
   - [R, Shiny Apps](https://github.com/FilipMKgit/Shiny_App_DIG_Trial_Data)
 
