@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Filip! 👋🌍</h1>
+<h1>👋🌍 Hello World, I'm Filip!</h1>
 
 <p>I'm a Health Data Science graduate with a focus on clinical trial methodology, statistical computing and machine learning. I enjoy building tools that make statistics more accessible and reproducible.</p>
 
