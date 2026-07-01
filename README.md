@@ -1,26 +1,53 @@
-<h1>Hi, I'm Filip! <br/><a href="https://github.com/FilipMKgit">Health Data Scientist</a>
+<h1>Hi, I'm Filip! 👋</h1>
+<h3>MSc Health Data Science · University of Galway</h3>
 
-<h2>🌱 Personal Projects:</h2>
+<p>I'm a Health Data Science graduate with a focus on clinical trial methodology, statistical computing, and machine learning. I enjoy building tools that make statistics more accessible and reproducible.</p>
 
-<h2>🎓 College Projects:</h2>
+---
 
-- <b> A Statistical Perspective of Non-inferiority Trials</b>
-  - [R, HTML, Quarto, Shiny Apps](https://github.com/FilipMKgit/MDX2526)
+<h2>🌱 Personal Projects</h2>
 
-- <b> Applications of Machine Learning to the Identification and Characterization of Pico- and Nano-Plankton in Irish Waters</b>
-  - [Python, Scikit-learn, TensorFlow](https://github.com/FilipMKgit/Machine-Learning-for-the-Identification-and-Characterization-of-Pico-and-Nano-Plankton)
+*Coming soon*
 
-- <b> PG-Power Shiny App</b>
-  - [R, Shiny Apps](https://github.com/FilipMKgit/MDX2526/tree/main/PG_Power)
+---
 
-- <b> DIG Trial Data Shiny App</b>
-  - [R, Shiny Apps](https://github.com/FilipMKgit/Shiny_App_DIG_Trial_Data)
+<h2>🎓 College Projects</h2>
 
-<h2> 📫 Connect with me:</h2>
+- **A Statistical Perspective of Non-Inferiority Trials**
+  - *MSc Health Data Science final thesis · University of Galway · 2026*
+  - Examining performance goal methodology in single-arm medical device studies, including meta-analysis, CI simulation, and Bayesian historical borrowing
+  - [R · R Markdown · Shiny · Quarto](https://github.com/FilipMKgit/MDX2526)
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- **PG-Power Shiny App**
+  - Interactive sample size calculator for single-arm performance goal studies, with six CI methods, power curve visualisation, and PDF/Word report export
+  - [R · Shiny](https://github.com/FilipMKgit/MDX2526/tree/main/PG_Power)
 
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/filip-miko%C5%82aj-k%C5%82osowski-651096305/)
+- **Applications of Machine Learning to the Identification and Characterisation of Pico- and Nano-Plankton in Irish Waters**
+  - *BSc Marine Science final thesis · University of Galway · Graded A*
+  - Classification of marine microorganisms using image-based machine learning
+  - [Python · Scikit-learn · TensorFlow](https://github.com/FilipMKgit/Machine-Learning-for-the-Identification-and-Characterization-of-Pico-and-Nano-Plankton)
+
+- **DIG Trial Data Shiny App**
+  - Interactive exploration of the DIG clinical trial dataset
+  - [R · Shiny](https://github.com/FilipMKgit/Shiny_App_DIG_Trial_Data)
+
+---
+
+<h2>🛠️ Languages & Tools</h2>
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=flat&logo=rstudio&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+<h2>📫 Connect with me</h2>
+
+<a href="https://www.linkedin.com/in/filip-miko%C5%82aj-k%C5%82osowski-651096305/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
