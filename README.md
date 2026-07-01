@@ -21,7 +21,7 @@
   - Interactive sample size calculator for single-arm performance goal studies, with six CI methods, power curve visualisation and PDF/Word report export
   - **Tools:** R · Shiny · bslib · ggplot2 · plotly · officer · pagedown
 
- - **[DIG Trial Data Shiny App](https://github.com/FilipMKgit/Shiny_App_DIG_Trial_Data)**
+- **[DIG Trial Data Shiny App](https://github.com/FilipMKgit/Shiny_App_DIG_Trial_Data)**
   - Interactive exploration of the DIG clinical trial dataset
   - **Tools:** R · Shiny · ggplot2 · dplyr
 
