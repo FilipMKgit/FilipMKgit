@@ -1,5 +1,4 @@
 <h1>Hi, I'm Filip! 👋</h1>
-<h3>MSc Health Data Science · University of Galway</h3>
 
 <p>I'm a Health Data Science graduate with a focus on clinical trial methodology, statistical computing and machine learning. I enjoy building tools that make statistics more accessible and reproducible.</p>
 
