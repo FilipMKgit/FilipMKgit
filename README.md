@@ -7,7 +7,7 @@
 - <b> A Statistical Perspective of Non-inferiority Trials</b>
   - [R, HTML, Quarto, Shiny Apps](https://github.com/FilipMKgit/MDX2526)
 
-- <b> Machine Learning for the Identification and Characterization of Pico- and Nano-Plankton</b>
+- <b> Applications of Machine Learning to the Identification and Characterization of Pico- and Nano-Plankton in Irish Waters</b>
   - [Python, Scikit-learn, TensorFlow](https://github.com/FilipMKgit/Machine-Learning-for-the-Identification-and-Characterization-of-Pico-and-Nano-Plankton)
 
 - <b> PG-Power Shiny App</b>
