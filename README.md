@@ -15,21 +15,22 @@
 
 - **[A Statistical Perspective of Non-Inferiority Trials](https://github.com/FilipMKgit/MDX2526)**
   - *MSc Health Data Science final thesis · University of Galway · 2026*
-  - Examining performance goal methodology in single-arm medical device studies, including meta-analysis, CI simulation, and Bayesian historical borrowing
+  - Examining performance goal methodology in single-arm medical device studies, including meta-analysis, CI simulation and Bayesian historical borrowing
   - **Tools:** R · R Markdown · Shiny · Quarto · LaTeX · ggplot2 · plotly
 
 - **[PG-Power Shiny App](https://github.com/FilipMKgit/MDX2526/tree/main/PG_Power)**
-  - Interactive sample size calculator for single-arm performance goal studies, with six CI methods, power curve visualisation, and PDF/Word report export
+  - Interactive sample size calculator for single-arm performance goal studies, with six CI methods, power curve visualisation and PDF/Word report export
   - **Tools:** R · Shiny · bslib · ggplot2 · plotly · officer · pagedown
 
+ - **[DIG Trial Data Shiny App](https://github.com/FilipMKgit/Shiny_App_DIG_Trial_Data)**
+  - Interactive exploration of the DIG clinical trial dataset
+  - **Tools:** R · Shiny · ggplot2 · dplyr
+
 - **[Applications of Machine Learning to the Identification and Characterisation of Pico- and Nano-Plankton in Irish Waters](https://github.com/FilipMKgit/Machine-Learning-for-the-Identification-and-Characterization-of-Pico-and-Nano-Plankton)**
-  - *BSc Marine Science final thesis · University of Galway · Graded A*
+  - *BSc Marine Science final thesis · University of Galway · 2025 · Graded A*
   - Classification of marine microorganisms using image-based machine learning
   - **Tools:** Python · Scikit-learn · TensorFlow · Pandas · NumPy · Matplotlib
 
-- **[DIG Trial Data Shiny App](https://github.com/FilipMKgit/Shiny_App_DIG_Trial_Data)**
-  - Interactive exploration of the DIG clinical trial dataset
-  - **Tools:** R · Shiny · ggplot2 · dplyr
 
 ---
 
