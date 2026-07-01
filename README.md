@@ -1,4 +1,4 @@
-<h1>Hi, I'm Filip! <br/><a href="https://github.com/FilipMKgit">Health Data Scientist</a> <a href="https://www.linkedin.com/in/filip-miko%C5%82aj-k%C5%82osowski-651096305/">
+<h1>Hi, I'm Filip! <br/><a href="https://github.com/FilipMKgit">Health Data Scientist</a>
 
 <h2>🌱 Personal Projects:</h2>
 
