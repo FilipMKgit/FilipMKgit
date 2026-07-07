@@ -7,7 +7,7 @@
 <h2>🌱 Personal Projects</h2>
 
 - **[Patient Readmission Risk Prediction with Interpretable ML](https://github.com/FilipMKgit/patient-readmission-risk)**
-  - Predicting 30-day hospital readmission risk for diabetic patients, with a focus on model interpretability using SHAP rather than raw predictive accuracy alone
+  - Predicting 30-day hospital readmission risk for diabetic patients, with a focus on model interpretability using SHAP rather than raw predictive accuracy
   - **Tools:** Python · scikit-learn · XGBoost · SHAP · Streamlit · pandas
   - **WIP**
 
