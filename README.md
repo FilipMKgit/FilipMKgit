@@ -11,6 +11,10 @@
   - **Tools:** Python · scikit-learn · XGBoost · SHAP · Streamlit · pandas
   - **WIP**
 
+- **[Handwritten Digit Recognition](https://github.com/FilipMKgit/handwriting-recognition)**
+  - CNN trained from scratch on MNIST (98.95% test accuracy), with confusion matrix analysis and an interactive Streamlit app for live predictions, including an out-of-distribution guard for non-digit input
+  - **Tools:** Python · PyTorch · scikit-learn · Streamlit
+
 ---
 
 <h2>🎓 College Projects</h2>
